@@ -28,4 +28,4 @@ namespace tp1
 				return this.datos.Count == 0;
 			}
 		}
-}
+} //Modificado
